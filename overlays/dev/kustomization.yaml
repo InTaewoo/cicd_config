@@ -5,7 +5,7 @@ images:
   newName: 987626325043.dkr.ecr.ap-northeast-2.amazonaws.com/
 - name: 987626325043.dkr.ecr.ap-northeast-2.amazonaws.com/cicd-test
   newName: 987626325043.dkr.ecr.ap-northeast-2.amazonaws.com/cicd-test
-  newTag: abcdefg
+  newTag: 2c8a8a21
 resources:
 - ../../base
 patchesStrategicMerge:
